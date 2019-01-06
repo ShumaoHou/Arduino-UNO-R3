@@ -7,9 +7,14 @@
 ### 接法
 
 Grid -> G
+
 Echo -> D3
+
 Trig -> D2
+
 Vcc  -> 5V
+
+
 
 ![Grid-Echo-Trig](Grid-Echo-Trig.jpg)
 Grid-Echo-Trig
