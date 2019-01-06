@@ -16,14 +16,14 @@ Vcc  -> 5V
 
 
 
-![Grid-Echo-Trig](pics\Grid-Echo-Trig.jpg)
+![Grid-Echo-Trig](pics/Grid-Echo-Trig.jpg)
 Grid-Echo-Trig
 
-![Vcc](pics\Vcc.jpg)
+![Vcc](pics/Vcc.jpg)
 Vcc
 
-![HC-SR04](pics\HC-SR04.jpg)
+![HC-SR04](pics/HC-SR04.jpg)
 HC-SR04
 
-![com-3](pics\com-3.png)
+![com-3](pics/com-3.png)
 串口输出
