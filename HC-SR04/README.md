@@ -20,7 +20,7 @@ Vcc  -> 5V
 Grid-Echo-Trig
 
 ![Vcc](pics/Vcc.jpg)
-Vcc
+Vcc 因为我的扩展版V都是坏掉的，所以接到了这里。
 
 ![HC-SR04](pics/HC-SR04.jpg)
 HC-SR04
