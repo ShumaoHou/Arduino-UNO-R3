@@ -7,7 +7,7 @@
 3. ArithmeticAverageFilter 算术均值滤波器
 4. RecursiveAveragingFilter 递推平均滤波器（滑动平均滤波器）
 5. MiddlevalueAverageFilter 中位值平均滤波器（防脉冲干扰平均滤波器）
-6. RecursiveAveragingFilter 限幅平均滤波器
+6. AmplitudeLimitingAverageFilter 限幅平均滤波器
 7. First-orderHysteresisFilter 一阶滞后滤波器
 8. WeightedRecursiveAverageFilter 加权递推平均滤波器
 9. DebounceFilter 消抖滤波器
