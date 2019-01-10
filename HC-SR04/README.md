@@ -16,14 +16,14 @@ Vcc  -> 5V
 
 
 
-![Grid-Echo-Trig](pics/Grid-Echo-Trig.jpg)
+![Grid-Echo-Trig](assets/Grid-Echo-Trig.jpg)
 Grid-Echo-Trig
 
-![Vcc](pics/Vcc.jpg)
+![Vcc](assets/Vcc.jpg)
 Vcc 因为我的扩展版V都是坏掉的，所以接到了这里。
 
-![HC-SR04](pics/HC-SR04.jpg)
+![HC-SR04](assets/HC-SR04.jpg)
 HC-SR04
 
-![com-3](pics/com-3.png)
+![com-3](assets/com-3.png)
 串口输出
