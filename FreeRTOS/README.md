@@ -20,9 +20,9 @@
 
     Grid -> G
 
-    Echo -> D3
+    Echo -> D5
 
-    Trig -> D2
+    Trig -> D4
 
     Vcc  -> 5V
 
